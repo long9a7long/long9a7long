@@ -2,6 +2,9 @@ Hi there, I'm Truong Minh Long 👋
 
 I'm a FrontEnd Developer
 
+Connect with me
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+
 <!--
 **long9a7long/long9a7long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
