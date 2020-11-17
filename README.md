@@ -4,7 +4,10 @@ I'm a FrontEnd Developer
 
 Connect with me
 <br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/long.truong.737/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=long9a7long)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
